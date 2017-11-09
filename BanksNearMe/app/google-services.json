@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "263764919292",
+    "project_id": "bankassistent-182214"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263764919292:android:37f4d73c36807b96",
+        "android_client_info": {
+          "package_name": "com.manoj.banksnearme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263764919292-ncu9rmsr8o7p0otua2buv0ato01dbf65.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "263764919292-n32k8pcme8d9sq7d8bjn791i49r812ht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manoj.banksnearme",
+            "certificate_hash": "a83fa7cfc8dd46494e41117b17d273e73fb5bfd3"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO1AGMdRzrjXO9dsAWmbu8Lv0EbJF5QsU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
