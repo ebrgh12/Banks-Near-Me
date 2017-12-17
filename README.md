@@ -13,3 +13,5 @@ Loaders.
 Shared Preference.
 
 Content Providers.
+
+Will be updating soon with widgets.
