@@ -14,6 +14,8 @@ Shared Preference.
 
 Content Providers.
 
+Intent Service.
+
 Google Places API.
 
 
