@@ -2,7 +2,8 @@
 This application displays the Nearby Banks and ATM's
 Uses Google Signup and Maps.
 
-Network Call using Retrofit.
+Technology :
+
 
 App widget.
 
@@ -16,6 +17,10 @@ Content Providers.
 
 Intent Service.
 
+Retrofit Library.
+
 Google Places API.
+
+
 
 
